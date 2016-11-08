@@ -1,7 +1,4 @@
 /**
- * Created by jaymin on 11/14/2016.
- */
-/**
  * System configuration for Angular samples
  * Adjust as necessary for your application needs.
  */

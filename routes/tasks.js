@@ -1,7 +1,3 @@
-/**
- * Created by jaymin on 11/13/2016.
- */
-
 var express = require('express');
 var router = express.Router();
 var mongojs = require('mongojs');
